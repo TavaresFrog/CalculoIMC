@@ -1,16 +1,37 @@
-# CalculoIMC
-Programa que realiza calculo de IMC e compara a altura do usuário com a média nacional Brasileira.
-## 🚀 Começando Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste. 
-Instalar o ambiente de desenvolvimento DEV-C++...
-### 📋 Pré-requisitos De que coisas você precisa para instalar o software e como instalá-lo? ``` Dar exemplos ``` 
-### 🔧 Instalação Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução. Diga como essa etapa será: ``` Dar exemplos ``` E repita: ``` Até finalizar ``` Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração. 
-## ⚙️ Executando os testes Explicar como executar os testes automatizados para este sistema. 
-### 🔩 Analise os testes de ponta a ponta Explique que eles verificam esses testes e porquê. ``` Dar exemplos ``` 
-### ⌨️ E testes de estilo de codificação Explique que eles verificam esses testes e porquê. ``` Dar exemplos ``` 
-## 📦 Implantação Adicione notas adicionais sobre como implantar isso em um sistema ativo 
-## 🛠️ Construído com Mencione as ferramentas que você usou para criar seu projeto * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado * [Maven](https://maven.apache.org/) - Gerente de Dependência * [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
-## 🖇️ Colaborando Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação. 
-## 📌 Versão Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
-## ✒️ Autores Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início * **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil) * **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil) Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto. 
-## 📄 Licença Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes. 
-## 🎁 Expressões de gratidão * Conte a outras pessoas sobre este projeto 📢; * Convide alguém da equipe para uma cerveja 🍺; * Um agradecimento publicamente 🫂; * etc. --- ⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
+<h2>🚀 Começando</h2>
+<p>Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.</p>
+<h3>📋 Pré-requisitos</h3>
+<p>Para utilizar a aplicação, você precisará ter instalado em sua máquina o compilador C++ e um ambiente de desenvolvimento. </p>
+<h3>🔧 Instalação</h3>
+<p>Para utilizar a aplicação, siga os seguintes passos:</p>
+Clone o repositório para sua máquina local usando o comando git clone https://github.com/seu-usuario/seu-repositorio.git.
+Navegue até a pasta do projeto usando o terminal.
+Compile o código digitando g++ -o main main.cpp.
+Execute a aplicação com ./main.
+A partir deste ponto, basta seguir as instruções fornecidas pelo programa.
+<h2>⚙️ Executando os testes</h2>
+<p>Para executar os testes automatizados do programa, basta seguir os seguintes passos:</p>
+Navegue até a pasta do projeto usando o terminal.
+Digite o comando make test.
+Os resultados dos testes serão exibidos no terminal.
+<h3>🔩 Analise os testes de ponta a ponta</h3>
+<p>Os testes de ponta a ponta verificam se a aplicação está calculando corretamente o IMC e o risco cardíaco, além de comparar a altura do usuário com a média brasileira.</p>
+<h3>⌨️ E testes de estilo de codificação</h3>
+<p>Os testes de estilo de codificação são feitos utilizando o programa `cppcheck`, que analisa o código em busca de possíveis erros ou problemas de estilo.</p>
+<h2>📦 Implantação</h2>
+<p>Para implantar a aplicação em um sistema ativo, basta seguir os seguintes passos:</p>
+Compile o código usando o comando g++ -o main main.cpp.
+Copie o arquivo main para a máquina de destino.
+Execute o programa com o comando ./main.
+<h2>🛠️ Construído com</h2>
+<ul>
+	<li>C++ - Linguagem de programação utilizada</li>
+</ul>
+<h2>🖇️ Colaborando</h2>
+<p>Por favor, leia o <a href="https://github.com/seu-usuario/seu-repositorio/blob/main/COLABORACAO.md">COLABORACAO.md</a> para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.</p>
+<h2>📌 Versão</h2>
+<p>Nós usamos <a href="http://semver.org/">SemVer</a> para controle de versão. Para as versões disponíveis, observe as <a href="https://github.com/seu-usuario/seu-repositorio/tags">tags neste repositório</a>.</p>
+<h2>✒️ Autores</h2>
+<ul>
+	<li>Seu Nome - <em>Desenvolvedor</em></li>
+</ul>
