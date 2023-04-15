@@ -33,5 +33,6 @@ Execute o programa com o comando ./main.
 <p>Nós usamos <a href="http://semver.org/">SemVer</a> para controle de versão. Para as versões disponíveis, observe as <a href="https://github.com/seu-usuario/seu-repositorio/tags">tags neste repositório</a>.</p>
 <h2>✒️ Autores</h2>
 <ul>
-	<li>Seu Nome - <em>Desenvolvedor</em></li>
+	<li> Guilherme Tavares - <em>Desenvolvedor</em></li>
+	<li> Vitor Aguiar - <em>Desenvolvedor</em></li>
 </ul>
